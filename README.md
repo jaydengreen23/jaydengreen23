@@ -1,6 +1,6 @@
 ### Hello There, My name is Jayden Green
 
-I'm currently persuing a degree in IT and I'm on track to graduate in 2025.
+I have graduated from UNA in 2025 with a degree in Information Technology.
 
 Skills:
 
