@@ -1,8 +1,13 @@
 ### Hello There, My name is Jayden Green
+👋 Hey, I'm a developer who enjoys building functional, creative projects—from full-stack apps to data-driven tools.
 
-I have graduated from UNA in 2025 with a degree in Information Technology.
+🛠️ Tools I use: JavaScript, Node.js, Express, MongoDB, EJS, Git, C++, PHP, Java, and Python.
 
-Skills:
+🧠 Interests: AI chatbots, data analysis, and turning ideas into working code.
+
+📚 Just graduated from UNA in 2025 with a degree in Information Technology and currently looking for junior dev roles
+
+<!--Skills:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;"></a>
@@ -11,7 +16,7 @@ Skills:
       <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
       <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a>
       <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a>
-
+-->
 Socials:
 
 <a href="https://github.com/jaydengreen23"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a>
